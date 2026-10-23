@@ -1,0 +1,9 @@
+{
+  "defaultDevice": "Wheel Base",
+  "speak": true,
+  "wrapAround": true,
+  "controller": { "name": "PXN-CB1", "vid": "36E6", "pid": "8001" },
+  "buttons": [
+    { "button": 1, "action": "next" }
+  ]
+}
